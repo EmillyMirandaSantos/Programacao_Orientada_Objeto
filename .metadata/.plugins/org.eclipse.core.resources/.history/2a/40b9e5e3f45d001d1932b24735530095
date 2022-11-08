@@ -1,0 +1,19 @@
+package uscs;
+
+public class Teste {
+	public static void main(String[] args){
+		Empregado empegrado1 = new Empregado();
+		Empregado empregado2 = new Empregado();
+		
+		empregado1.setNome("Michael Pedro");
+		empregado1.setCargo("Analista de Quaidade";
+		
+		empregado2.setNome("Maria Merge");
+		empregado2.setCargo("Auxiliar Tecnico");
+		empregado2.setSalario(1200.00);
+		empregado2.ImprimeEmpregado();
+		empregado2.TotalEmpregados();
+		}
+		}
+
+}
